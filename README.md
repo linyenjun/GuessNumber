@@ -28,7 +28,7 @@ $npx react-native init Guessnumber --template react-native-tenplate-typescript
 
 ### 2.搭建环境其他的建议：
 
-*关于node版本切换：
+#### *关于node版本切换：
 
 因为这是一个node驱动的项目，有可能你会有其他在用的node版本，推荐使用nvm进行版本管理
 
@@ -73,7 +73,7 @@ $nvm list
 
 $nvm use 12.0.1
 
-*关于Android studio模拟器：
+#### *关于Android studio模拟器：
 
 可以选择使用真机，但是要重装apk比较麻烦
 使用模拟器建议看看笔记本的内存是否有8G，4G内存的笔记本不适合使用Android studio
