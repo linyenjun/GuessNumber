@@ -8,7 +8,7 @@
 
 ## 搭建项目
 
-1.环境搭建：
+### 1.环境搭建：
 https://reactnative.cn/docs/getting-started.html
 
 请务必参考最新版本的搭建环境，并选择自己的计算机支持的作业环境
@@ -25,7 +25,7 @@ $npx react-native init AwesomeProject
 $npx react-native init Guessnumber --template react-native-tenplate-typescript
 
 
-2.搭建环境其他的建议：
+### 2.搭建环境其他的建议：
 
 *关于node版本切换：
 
@@ -72,7 +72,7 @@ $nvm use 12.0.1
 模拟器可以多设置几个试看看，可以使用比较稳定好用的
 
 
-3.下次启动建议先开启模拟器，再到项目里用这个指令启动
+### 3.下次启动建议先开启模拟器，再到项目里用这个指令启动
 
 $yarn react-native run-android
 
