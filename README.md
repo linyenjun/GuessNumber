@@ -15,11 +15,13 @@ https://reactnative.cn/docs/getting-started.html
 个人不推荐使用沙盒环境，建议使用稳定版本的最新node进行安装
 
 下载原生的代码指令，当中的AwesomeProject是你的文件夹名称，可以自行更换
+
 $npx react-native init AwesomeProject 
 
 这个指令下的模板没有用typescript，但是也能实现效果
 
 如果要带有typescript，可以用以下指令初始化新的项目，文件夹名称是Guessnumber
+
 $npx react-native init Guessnumber --template react-native-tenplate-typescript
 
 
