@@ -1,4 +1,4 @@
-#GuessNumber
+##GuessNumber
 
 这是一个react-native的练习
 
